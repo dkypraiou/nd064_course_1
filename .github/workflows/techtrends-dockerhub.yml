@@ -1,3 +1,4 @@
+#--------------------
 name: Techtrends - Package with Docker
 
 on:
@@ -33,3 +34,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: despoina16/techtrends:latest
+
